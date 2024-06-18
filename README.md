@@ -24,20 +24,8 @@ Proxy Checker is a high-performance proxy testing tool developed by Pushkar Upad
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/proxy-checker.git
-    cd proxy-checker
-    ```
-
-2. **Build the Project**
-
-    ```bash
-    go build -o proxy-checker
-    ```
-
-3. **Run the Program**
-
-    ```bash
-    ./proxy-checker
+    git clone https://github.com/Pushkarup/Go-ProxyCheck.git
+    cd Go-ProxyCheck
     ```
 
 ## Usage
@@ -63,7 +51,7 @@ Proxy Checker is a high-performance proxy testing tool developed by Pushkar Upad
 3. **Run the Program**
 
     ```bash
-    ./proxy-checker
+    go run main.go
     ```
 
 4. **Follow the On-Screen Instructions**
